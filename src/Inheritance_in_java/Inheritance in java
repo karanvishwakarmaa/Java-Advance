@@ -1,0 +1,16 @@
+Inheritance, method Overriding, Object class, super keyword, Object downcasting, toString method.
+
+Inheritance in Java:
+Inheritance is one of the most important features of OOP(Object-Oriented
+Programming).
+Inheritance is a relationship[Parent-Child] between classes, it will bring variables
+and methods from one class[Super class / Base Class / Parent Class] to another
+class[Sub
+class / Derived Class / Child Class] in order to reuse.
+The idea behind inheritance in Java is that you can create new classes
+ that are built upon existing classes. When you inherit from an existing class, you can
+reuse methods and fields of the parent class. Moreover, you can add new methods and
+fields to your current class also.
+Note: In Java, Inheritance is represented in the form of the "extends" keyword.
+Inheritance represents the IS-A relationship which is also known as a parent-child
+relationship.
