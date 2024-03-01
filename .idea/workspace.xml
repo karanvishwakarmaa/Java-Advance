@@ -1,22 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="018467e6-f4ff-47a0-96dd-da910429f956" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Advance.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="018467e6-f4ff-47a0-96dd-da910429f956" name="Changes" comment="My Second Commit">
+      <change afterPath="$PROJECT_DIR$/src/BasicJavaQuestions/Ques01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicJavaQuestions/Ques02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicJavaQuestions/Ques03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BooleanLogicalOperator/Ques04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BooleanLogicalOperator/Ques05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2d53hjVcM3SkRTNFJQR0Tsp57AK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -27,9 +39,86 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Ques05">
+    <configuration name="Ques01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicJavaQuestions.Ques01" />
+      <module name="Java-Advance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicJavaQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ques02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicJavaQuestions.Ques02" />
+      <module name="Java-Advance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicJavaQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ques03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicJavaQuestions.Ques03" />
+      <module name="Java-Advance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicJavaQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ques04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BooleanLogicalOperator.Ques04" />
+      <module name="Java-Advance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BooleanLogicalOperator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ques05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BooleanLogicalOperator.Ques05" />
+      <module name="Java-Advance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BooleanLogicalOperator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ques05" />
+        <item itemvalue="Application.Ques04" />
+        <item itemvalue="Application.Ques03" />
+        <item itemvalue="Application.Ques02" />
+        <item itemvalue="Application.Ques01" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,6 +128,28 @@
       <option name="presentableId" value="Default" />
       <updated>1709284235321</updated>
     </task>
+    <task id="LOCAL-00001" summary="My First Commit">
+      <created>1709284925779</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709284925779</updated>
+    </task>
+    <task id="LOCAL-00002" summary="My Second Commit">
+      <created>1709285428276</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709285428276</updated>
+    </task>
+    <task id="LOCAL-00003" summary="My Second Commit">
+      <created>1709286420600</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709286420600</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -46,10 +157,27 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="My First Commit" />
+    <MESSAGE value="My Second Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="My Second Commit" />
   </component>
 </project>
