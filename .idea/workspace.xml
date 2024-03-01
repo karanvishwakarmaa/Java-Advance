@@ -2,16 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="018467e6-f4ff-47a0-96dd-da910429f956" name="Changes" comment="My Second Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Iterative_Statement/For_Loop/Ques10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Iterative_Statement/For_Loop/Ques11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Iterative_Statement/While_Loop/Ques12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Iterative_Statement/While_Loop/Ques13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Iterative_Statement/do_while_Loop/Ques14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Iterative_Statement/do_while_Loop/Ques15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwitchCase/Ques09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TransferStatement/Break_Statement/Ques16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TransferStatement/Break_Statement/Ques17.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -171,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709288668090</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="My Second Commit">
+      <created>1709290306094</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709290306094</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
