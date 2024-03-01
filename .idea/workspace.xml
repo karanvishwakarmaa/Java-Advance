@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="018467e6-f4ff-47a0-96dd-da910429f956" name="Changes" comment="My Second Commit">
-      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/Ques07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/Ques08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShortCircuit_Operators/Ques06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Iterative_Statement/For_Loop/Ques10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Iterative_Statement/For_Loop/Ques11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Iterative_Statement/While_Loop/Ques12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Iterative_Statement/While_Loop/Ques13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Iterative_Statement/do_while_Loop/Ques14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Iterative_Statement/do_while_Loop/Ques15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwitchCase/Ques09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TransferStatement/Break_Statement/Ques16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TransferStatement/Break_Statement/Ques17.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +33,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2d53hjVcM3SkRTNFJQR0Tsp57AK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -40,16 +47,17 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ques08">
-    <configuration name="Ques04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BooleanLogicalOperator.Ques04" />
+  <component name="RunManager" selected="Application.Ques20_1">
+    <configuration name="Ques17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TransferStatement.Break_Statement.Ques17" />
       <module name="Java-Advance" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BooleanLogicalOperator.*" />
+          <option name="PATTERN" value="TransferStatement.Break_Statement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ques05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BooleanLogicalOperator.Ques05" />
+    <configuration name="Ques18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TransferStatement.Continue_statement.Ques18" />
       <module name="Java-Advance" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BooleanLogicalOperator.*" />
+          <option name="PATTERN" value="TransferStatement.Continue_statement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ques06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ShortCircuit_Operators.Ques06" />
+    <configuration name="Ques19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TransferStatement.Continue_statement.Ques19" />
       <module name="Java-Advance" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ShortCircuit_Operators.*" />
+          <option name="PATTERN" value="TransferStatement.Continue_statement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ques07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConditionalStatements.Ques07" />
+    <configuration name="Ques20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TransferStatement.Continue_statement.Ques20" />
       <module name="Java-Advance" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ConditionalStatements.*" />
+          <option name="PATTERN" value="TransferStatement.Continue_statement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ques08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConditionalStatements.Ques08" />
+    <configuration name="Ques20_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TransferStatement.Continue_statement.Ques20_1" />
       <module name="Java-Advance" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ConditionalStatements.*" />
+          <option name="PATTERN" value="TransferStatement.Continue_statement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ques08" />
-        <item itemvalue="Application.Ques07" />
-        <item itemvalue="Application.Ques06" />
-        <item itemvalue="Application.Ques05" />
-        <item itemvalue="Application.Ques04" />
+        <item itemvalue="Application.Ques20_1" />
+        <item itemvalue="Application.Ques20" />
+        <item itemvalue="Application.Ques19" />
+        <item itemvalue="Application.Ques18" />
+        <item itemvalue="Application.Ques17" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709287871352</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="My Second Commit">
+      <created>1709288668090</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709288668090</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
