@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="018467e6-f4ff-47a0-96dd-da910429f956" name="Changes" comment="My Second Commit">
-      <change afterPath="$PROJECT_DIR$/src/BasicJavaQuestions/Ques01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicJavaQuestions/Ques02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicJavaQuestions/Ques03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BooleanLogicalOperator/Ques04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BooleanLogicalOperator/Ques05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/Ques07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/Ques08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShortCircuit_Operators/Ques06.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +29,9 @@
     <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2d53hjVcM3SkRTNFJQR0Tsp57AK" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,46 +43,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ques05">
-    <configuration name="Ques01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicJavaQuestions.Ques01" />
-      <module name="Java-Advance" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BasicJavaQuestions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ques02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicJavaQuestions.Ques02" />
-      <module name="Java-Advance" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BasicJavaQuestions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ques03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicJavaQuestions.Ques03" />
-      <module name="Java-Advance" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BasicJavaQuestions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ques08">
     <configuration name="Ques04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BooleanLogicalOperator.Ques04" />
       <module name="Java-Advance" />
@@ -109,13 +70,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ques06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShortCircuit_Operators.Ques06" />
+      <module name="Java-Advance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ShortCircuit_Operators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ques07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConditionalStatements.Ques07" />
+      <module name="Java-Advance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ConditionalStatements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ques08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConditionalStatements.Ques08" />
+      <module name="Java-Advance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ConditionalStatements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ques08" />
+        <item itemvalue="Application.Ques07" />
+        <item itemvalue="Application.Ques06" />
         <item itemvalue="Application.Ques05" />
         <item itemvalue="Application.Ques04" />
-        <item itemvalue="Application.Ques03" />
-        <item itemvalue="Application.Ques02" />
-        <item itemvalue="Application.Ques01" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709286420600</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="My Second Commit">
+      <created>1709287871352</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709287871352</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
