@@ -14,3 +14,11 @@ fields to your current class also.
 Note: In Java, Inheritance is represented in the form of the "extends" keyword.
 Inheritance represents the IS-A relationship which is also known as a parent-child
 relationship.
+
+
+Types of Inheritance:
+1. Single Inheritance
+2. Multilevel Inheritance
+3. Hierarchical Inheritance
+4. Multiple Inheritance
+5. Hybrid Inheritance
