@@ -2,7 +2,7 @@ package CompleteJavaPackage.Challenges;
 
 import java.util.Scanner;
 
-public class Challenge03 {
+class Challenge03 {
 
 //    Create a program to input name of the person and respond with ”Welcome NAME to RK Coding”
 

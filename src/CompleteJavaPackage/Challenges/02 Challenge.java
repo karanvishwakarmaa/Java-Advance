@@ -2,7 +2,7 @@ package CompleteJavaPackage.Challenges;
 
 import java.util.Scanner;
 
-public class Challenge02 {
+class Challenge02 {
 
 //    Create a new Project and output  “subscribe” on the console.
 

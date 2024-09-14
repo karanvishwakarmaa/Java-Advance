@@ -2,7 +2,7 @@ package CompleteJavaPackage.Challenges;
 
 import java.util.Scanner;
 
-public class Challenge01 {
+class Challenge01 {
 
 //    Create a class to output “good morning” using a text  editor and check output. ---->
 public static void main(String[] args) {

@@ -2,7 +2,7 @@ package CompleteJavaPackage.Challenges;
 
 import java.util.Scanner;
 
-public class Challenge06 {
+class Challenge06 {
 
 //Create a program to multiplication two numbers.
 

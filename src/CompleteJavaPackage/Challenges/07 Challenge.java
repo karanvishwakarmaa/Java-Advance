@@ -2,7 +2,7 @@ package CompleteJavaPackage.Challenges;
 
 import java.util.Scanner;
 
-public class Challenge07 {
+class Challenge07 {
 
 //    Create a program to swap two numbers.
 
