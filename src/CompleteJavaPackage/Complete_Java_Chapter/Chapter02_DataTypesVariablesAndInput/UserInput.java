@@ -1,5 +1,4 @@
-package Complete_Java_Chapter.Chapter02_DataTypesVariablesAndInput;
-
+package CompleteJavaPackage.Complete_Java_Chapter.Chapter02_DataTypesVariablesAndInput;
 import java.util.Scanner;
 
 public class UserInput {

@@ -1,4 +1,4 @@
-package Complete_Java_Chapter.Chapter01_BasicJava;
+package CompleteJavaPackage.Complete_Java_Chapter.Chapter01_BasicJava;
 
 public class Escape {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Complete_Java_Chapter.Chapter02_DataTypesVariablesAndInput;
+package CompleteJavaPackage.Complete_Java_Chapter.Chapter02_DataTypesVariablesAndInput;
 
 public class Variables {
     public static void main(String[] args) {
